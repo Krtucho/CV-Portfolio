@@ -21,7 +21,7 @@ export class CvabastidasService {
   }
 
   private CargarProfesional(){
-    this.http.get('https://cv-tutorial-70504.firebaseio.com/Profesional.json')
+    this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/Profesional.json')
       .subscribe((resp: any) => {
         this.profesional = resp;
         console.log(resp);
