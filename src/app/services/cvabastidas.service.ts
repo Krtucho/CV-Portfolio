@@ -7,6 +7,7 @@ import { HttpClient } from '@angular/common/http';
 export class CvabastidasService {
 
   profesional: any[] = [];
+  proPL: any[] = [];
   educacion: any[] = [];
   testimonio: any[] = [];
   experiencia: any[] = [];
@@ -22,6 +23,30 @@ export class CvabastidasService {
 
   private CargarProfesional(){
     this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/Profesional.json')
+      .subscribe((resp: any) => {
+        this.profesional = resp;
+        console.log(resp);
+    });
+  }
+
+  private CargarProPL(){
+    this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/ProPL.json')
+      .subscribe((resp: any) => {
+        this.profesional = resp;
+        console.log(resp);
+    });
+  }
+
+  private CargarProFramework(){
+    this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/ProFramework.json')
+      .subscribe((resp: any) => {
+        this.profesional = resp;
+        console.log(resp);
+    });
+  }
+
+  private CargarProLanguages(){
+    this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/ProLanguages.json')
       .subscribe((resp: any) => {
         this.profesional = resp;
         console.log(resp);
