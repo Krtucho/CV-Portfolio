@@ -7,11 +7,15 @@ import { HttpClient } from '@angular/common/http';
 export class CvabastidasService {
 
   profesional: any[] = [];
-  proPL: any[] = [];
   educacion: any[] = [];
   testimonio: any[] = [];
   experiencia: any[] = [];
   blog: any[] = [];
+  
+  proFL: any[] = [];
+  proPL: any[] = [];
+  proFr: any[] = [];
+  otherTools: any[] = [];
 
   constructor(private http: HttpClient) {
     this.CargarProfesional();
@@ -19,6 +23,12 @@ export class CvabastidasService {
     this.CargarTestimonio();
     this.CargarExperiencia();
     this.CargarBlog();
+
+    // Professional
+    this.CargarProLanguages();
+    this.CargarProPL(); // Programming Languages
+    this.CargarProFramework();
+    this.CargarOtherTools();
   }
 
   private CargarProfesional(){
@@ -29,10 +39,10 @@ export class CvabastidasService {
     });
   }
 
-  private CargarProPL(){
-    this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/ProPL.json')
+  private CargarProPL(){ // Programming Languages
+    this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/ProLanguages.json')
       .subscribe((resp: any) => {
-        this.profesional = resp;
+        this.proPL = resp; 
         console.log(resp);
     });
   }
@@ -40,15 +50,23 @@ export class CvabastidasService {
   private CargarProFramework(){
     this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/ProFramework.json')
       .subscribe((resp: any) => {
-        this.profesional = resp;
+        this.proFr = resp;
         console.log(resp);
     });
   }
 
   private CargarProLanguages(){
-    this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/ProLanguages.json')
+    this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/ProFLanguages.json')
       .subscribe((resp: any) => {
-        this.profesional = resp;
+        this.proFL = resp;
+        console.log(resp);
+    });
+  }
+
+  private CargarOtherTools(){
+    this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/OtherTools.json')
+      .subscribe((resp: any) => {
+        this.otherTools = resp;
         console.log(resp);
     });
   }
