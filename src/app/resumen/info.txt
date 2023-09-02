@@ -1,0 +1,13 @@
+{
+    "Descripcion": "Algo",
+    "Fecha": 2018,
+    "Nombre": "C#",
+    "Url": "http://google.com"
+}
+
+{
+    "Descripcion": "JavaScript FreeCodeCamp Algorithms and Data Structures Certification",
+    "Fecha": 2023,
+    "Nombre": "JavaScript",
+    "Url": "https://www.freecodecamp.org/certification/krtucho/javascript-algorithms-and-data-structures"
+}

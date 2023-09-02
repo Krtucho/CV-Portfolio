@@ -11,7 +11,7 @@ export class CvabastidasService {
   testimonio: any[] = [];
   experiencia: any[] = [];
   blog: any[] = [];
-  
+
   proFL: any[] = [];
   proPL: any[] = [];
   proFr: any[] = [];
@@ -31,75 +31,79 @@ export class CvabastidasService {
     this.CargarOtherTools();
   }
 
-  private CargarProfesional(){
-    this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/Profesional.json')
-      .subscribe((resp: any) => {
-        this.profesional = resp;
-        console.log(resp);
-    });
+  private CargarProfesional() {
+    try {
+      this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/Profesional.json')
+        .subscribe((resp: any) => {
+          this.profesional = resp;
+          console.log(resp);
+        });
+    } catch (ex) {
+      console.log(ex);
+    }
   }
 
-  private CargarProPL(){ // Programming Languages
+  private CargarProPL() { // Programming Languages
     this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/ProLanguages.json')
       .subscribe((resp: any) => {
-        this.proPL = resp; 
+        this.proPL = resp;
         console.log(resp);
-    });
+      });
   }
 
-  private CargarProFramework(){
+  private CargarProFramework() {
     this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/ProFramework.json')
       .subscribe((resp: any) => {
         this.proFr = resp;
         console.log(resp);
-    });
+      });
   }
 
-  private CargarProLanguages(){
+  private CargarProLanguages() {
     this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/ProFLanguages.json')
       .subscribe((resp: any) => {
         this.proFL = resp;
         console.log(resp);
-    });
+      });
   }
 
-  private CargarOtherTools(){
+  private CargarOtherTools() {
     this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/OtherTools.json')
       .subscribe((resp: any) => {
         this.otherTools = resp;
         console.log(resp);
-    });
+      });
   }
 
-  private CargarEducacion(){
+  private CargarEducacion() {
     this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/Educacion.json')
       .subscribe((resp: any) => {
         this.educacion = resp;
         console.log(resp);
-    });
+      });
   }
 
-  private CargarTestimonio(){
+  private CargarTestimonio() {
     this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/Testimonio.json')
       .subscribe((resp: any) => {
         this.testimonio = resp;
         console.log(resp);
-    });
+      });
   }
 
-  private CargarExperiencia(){
+  private CargarExperiencia() {
     this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/Experiencia.json')
       .subscribe((resp: any) => {
         this.experiencia = resp;
         console.log(resp);
-    });
+      });
   }
 
-  private CargarBlog(){
+  private CargarBlog() {
     this.http.get('https://krtucho-portfolio-default-rtdb.firebaseio.com/Blog.json')
       .subscribe((resp: any) => {
         this.blog = resp;
         console.log(resp);
-    });
+      });
   }
 }
