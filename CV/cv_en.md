@@ -37,6 +37,7 @@ krtucho98@gmail.com
 - Skill and experience working in $\textbf{Git}$, the projects are located on my [Github](https://github.com/Krtucho).
 - I have enjoyed working in a team on projects like  [The-Sims](https://github.com/Krtucho/The-Sims) or others that are located on my [Github](https://github.com/Krtucho).
 - $\textbf{Adaptable to changes in development frameworks and tools}$. Available to progress in terms of improving in the technologies I master or learn to handle new technologies. For example, if a new version of the framework being used comes out, I adapt quickly to the changes.
+
 # Hard Skills or Abilities
 
 ## PROGRAMMING LANGUAGES
