@@ -38,12 +38,49 @@ https://github.com/Krtucho/
 - Habilidad y destreza con varios frameworks para el trabajo en frontend como Vue, Angular y para el trabajo en backend como Nestjs o Nodejs, algunos proyectos ubicados en mi github.
 - Habilidad y experiencia trabajando en Git, en mi github se encuentran los proyectos. 
 - Me ha gustado trabajar en equipo en proyectos como [The-Sims](https://github.com/Krtucho/The-Sims) u otros  que se encuentran en mi Github.
+-Adaptable a los cambios en los frameworks y herramientas de desarrollo. Disponible a progresar en cuanto a mejorar en las tecnologías que domine o aprender a manejar nuevas tecnologías. Ejemplo, si sale una nueva versión del framework que se esté utilizando, me adapto rápido a los cambios.
 
 # Hard Skills o Habilidades
 - Es muy importante que pongas las tecnologias y lenguajes que conoces.
 -  Si tienes muchos puedes separarlos por Stack
 - Los programas no son tan importantes como los lenguajes.
 - Apoyalos siempre con proyectos
+## PROGRAMMING LANGUAGES
+- C
+- C++
+- C#
+- CSS
+- Dart
+- Haskell
+- HTML
+- JavaScript
+- SQL
+- Python
+- Prolog
+- TypeScript
+- Rust
+
+## FRAMEWORKS
+- Angular
+- Blender
+- Bootstrap
+- Django
+- Dotnet
+- Flutter
+- GraphQl
+- Jestjs
+- Mongodb
+- Nestjs
+- Nodejs
+- Quasar
+- Vue
+- Unity
+
+## OTHER TOOLS
+- Bash
+- Docker
+- Git
+- PostgreSQL
 
 # Educacion
 - Actualmente estudiando en el ultimo anno(4th) de Ciencias de la Computacion en la Universidad de la Habana.

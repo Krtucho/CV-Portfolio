@@ -2,48 +2,80 @@
 
 # Contact
 
-Carlos Carret Miranda
+$\textbf{Carlos Carret Miranda}$
 
 krtucho98@gmail.com
 
 +5354820768
 
 ## Social Networks
-
-https://krtucho-portfolio.web.app/
-
-http://linkedin.com/in/krtucho
-
-https://github.com/Krtucho/
+[Portfolio](https://krtucho-portfolio.web.app/)
+[LinkedIn](http://linkedin.com/in/krtucho)
+[GitHub](https://github.com/Krtucho/)
+[Telegram](https://t.me/Krtucho)
 
 # Professional Profile
-- Creation and layout of a web page in Angular at Guajiritos company.
-- Creation of web pages using JavaScript or TypeScript frameworks such as Vue, React, Nestjs, and Nodejs.
-- Creation of web applications using C#, SQL, .NetFramework.
-- Creation of Desktop applications for Windows using C# and .NetFramework.
-- Creation of Telegram bots.
+- Creation and layout of a web page in $\textbf{Angular}$ at $\textbf{Guajiritos company}$.
+- Creation of web pages using $\textbf{JavaScript}$ or $\textbf{TypeScript}$ frameworks such as $\textbf{Vue, React, Nestjs}$, and $\textbf{Nodejs}$.
+- Creation of web applications using $\textbf{C}$#, $\textbf{SQL, .NetFramework}$.
+- Creation of Desktop applications for $\textbf{Windows}$ using $\textbf{C}$# and $\textbf{.NetFramework}$.
+- Creation of $\textbf{Telegram bots}$.
 
 # Experience
-- Worked as a $\textbf{Backend}$ Developer at Guajiritos using $\textbf{Nestjs}$
+- Worked as a $\textbf{Backend}$ Developer at $\textbf{Guajiritos}$ using $\textbf{Nestjs}$
 
 # Soft Skills
 
-- Completion of several projects throughout the Computer Science career, some of the paths that have been touched with these projects are:
-  - Software Engineering
-  - Web page design
-  - Work with Databases
-  - Creation of backend for web and desktop applications.
-- Handling of the Spanish language as a native language and English at a technical-intermediate level.
-- Currently learning French.
-- Skill and dexterity with various frameworks for work in frontend such as Vue, Angular and for work in backend such as Nestjs or Nodejs, some projects located on my Github.
-- Skill and experience working in Git, the projects are located on my Github.
-- I have enjoyed working in a team on projects like  [The-Sims](https://github.com/Krtucho/The-Sims) or others that are located on my Github.
-
+- Completion of several projects throughout the $\textbf{Computer Science}$ career, some of the paths that have been touched with these projects are:
+  - $\textbf{Software Engineering}$
+  - $\textbf{Web page design}$
+  - $\textbf{Work with Databases}$
+  - $\textbf{Creation of backend for web and desktop applications.}$
+- Handling of the $\textbf{Spanish}$ language as a native language and $\textbf{English}$ at a technical-intermediate level.
+- Currently learning $\textbf{French}$.
+- Skill and dexterity with various frameworks for work in frontend such as $\textbf{Vue, Angular}$ and for work in backend such as $\textbf{Nestjs}$ or $\textbf{Nodejs}$, some projects located on my [Github](https://github.com/Krtucho).
+- Skill and experience working in $\textbf{Git}$, the projects are located on my [Github](https://github.com/Krtucho).
+- I have enjoyed working in a team on projects like  [The-Sims](https://github.com/Krtucho/The-Sims) or others that are located on my [Github](https://github.com/Krtucho).
+- $\textbf{Adaptable to changes in development frameworks and tools}$. Available to progress in terms of improving in the technologies I master or learn to handle new technologies. For example, if a new version of the framework being used comes out, I adapt quickly to the changes.
 # Hard Skills or Abilities
-- It is very important that you put the technologies and languages you know.
-- If you have many, you can separate them by Stack
-- Programs are not as important as languages.
-- Always support them with projects
+
+## PROGRAMMING LANGUAGES
+- $\textbf{C}$ | [Shell](https://github.com/Krtucho/Shell) | [WebServer](https://github.com/Krtucho/WebServer)
+- $\textbf{C++}$
+- $\textbf{C}$# | [Cellular_Automata](https://github.com/Krtucho/cellular_automata) | [The Sims](https://github.com/Krtucho/The-Sims)
+- $\textbf{CSS}$ | [Museum](https://github.com/dionisio35/LouvreMuseum) | [Bahamas](https://github.com/Krtucho/Bahamas)
+- $\textbf{Dart}$
+- $\textbf{Haskell}$ | [Sudoku-Hidato](https://github.com/Krtucho/Sudoku-Hidato-Haskell)
+- $\textbf{HTML}$ | [Bahamas](https://github.com/Krtucho/Bahamas)
+- $\textbf{JavaScript}$ | [Timestamp Project](https://github.com/Krtucho/boilerplate-project-timestamp)
+- $\textbf{SQL}$ | [Animal Shop](https://github.com/Krtucho/Animal-Shop) | [Distributed Search Engine](https://github.com/Krtucho/distributed_search_engine)
+- $\textbf{Python}$ | [Distributed Search Engine](https://github.com/Krtucho/distributed_search_engine) | [SRI](https://github.com/Krtucho/SRI) | [Networks-Py](https://github.com/Krtucho/Networks-Py) | [Proyecto Automata](https://github.com/Krtucho/proyecto_automata)
+- $\textbf{Prolog}$ | [Azul](https://github.com/Krtucho/Azul-Prolog)
+- $\textbf{Rust}$
+- $\textbf{Solidity}$
+- $\textbf{TypeScript}$ | [Animal Shop](https://github.com/Krtucho/Animal-Shop) | [My Forum DApp](https://github.com/Krtucho/my_forum_dApp)
+
+## FRAMEWORKS
+- $\textbf{Angular}$ | [Bahamas](https://github.com/Krtucho/Bahamas)
+- $\textbf{Blender}$
+- $\textbf{Bootstrap}$
+- $\textbf{Django}$ | [Museum](https://github.com/dionisio35/LouvreMuseum)
+- $\textbf{Dotnet}$ | [Cellular_Automata](https://github.com/Krtucho/cellular_automata)
+- $\textbf{Flutter}$
+- $\textbf{GraphQl}$
+- $\textbf{Jestjs}$
+- $\textbf{Mongodb}$
+- $\textbf{Nestjs}$ | [Animal Shop](https://github.com/Krtucho/Animal-Shop) | [My Forum DApp](https://github.com/Krtucho/my_forum_dApp)
+- $\textbf{Nodejs}$ | [Timestamp Project](https://github.com/Krtucho/boilerplate-project-timestamp)
+- $\textbf{Quasar}$ | [GeoCuba](https://github.com/Krtucho/GeoCuba)
+- $\textbf{Vue}$ | [GeoCuba](https://github.com/Krtucho/GeoCuba)
+- $\textbf{Unity}$ | [Cellular_Automata](https://github.com/Krtucho/cellular_automata)
+
+## OTHER TOOLS
+- $\textbf{Bash}$ | [Distributed Search Engine](https://github.com/Krtucho/distributed_search_engine) | [Shell](https://github.com/Krtucho/Shell) 
+- $\textbf{Docker}$ | [Distributed Search Engine](https://github.com/Krtucho/distributed_search_engine)
+- $\textbf{Git}$ | [GitHub Profile](https://github.com/Krtucho/Krtucho)
+- $\textbf{PostgreSQL}$ | [Animal Shop](https://github.com/Krtucho/Animal-Shop)
 
 # Education
-- Currently studying in the last year (4th) of Computer Science at the University of Havana.
+- Currently studying in the $\textbf{last year (4th)}$ of $\textbf{Computer Science}$ at the $\textbf{University of Havana}$.
