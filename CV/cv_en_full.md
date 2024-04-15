@@ -22,14 +22,13 @@ krtucho98@gmail.com
 - Creation of $\textbf{Telegram bots}$.
 
 # Research
-- Participation in $\textbf{ERMAC 2023}$ event with presentation of work $\textbf{Tool for simulating tumor growth in various regions of the human body in three dimensions}$[url](https://www.even3.com.br/documentos/imprimir?i=1587580.83572266.788310.8.504503015422774001630&cc=563DFE57-28EE-4831-B2E0-D1F8F3EE7A29)
-- Participation in $\textbf{ELACTAM 2024}$ event with presentation of work $\textbf{Simulation of tumor growth in various regions of the human body in 3
-dimensions}$
+- Participation in **ERMAC 2023** event with presentation of work **Tool for simulating tumor growth in various regions of the human body in three dimensions**: [url](https://www.even3.com.br/documentos/imprimir?i=1587580.83572266.788310.8.504503015422774001630&cc=563DFE57-28EE-4831-B2E0-D1F8F3EE7A29)
+- Participation in **ELACTAM 2024** event with presentation of work **Simulation of tumor growth in various regions of the human body in 3 dimensions**
 
 # Experience
-- Worked as a $\textbf{Backend}$ Developer at $\textbf{Guajiritos}$ using $\textbf{Nestjs}$
-- Worked as Full Stack Developer at BlueBerry using $\textbf{.NetCore and .NetFramework}$ and $\textbf{Angular}$.
-- Currently working as a $\textbf{trained professor}$ of $\textbf{Computer Architecture}$ at $\textbf{the University of Havana}$.
+- Worked as a **Backend** Developer at **Guajiritos** using **Nestjs**
+- Worked as Full Stack Developer at BlueBerry using **.NetCore and .NetFramework** and **Angular**.
+- Currently working as a **Trained Professor** of **Computer Architecture** at the **University of Havana**.
 
 # Soft Skills
 
@@ -43,7 +42,7 @@ dimensions}$
 - Skill and dexterity with various frameworks for work in frontend such as $\textbf{Vue, Angular}$ and for work in backend such as $\textbf{Nestjs}$ or $\textbf{Nodejs}$, some projects located on my [Github](https://github.com/Krtucho).
 - Skill and experience working in $\textbf{Git}$, the projects are located on my [Github](https://github.com/Krtucho).
 - I have enjoyed working in a team on projects like  [The-Sims](https://github.com/Krtucho/The-Sims) or others that are located on my [Github](https://github.com/Krtucho).
-- $\textbf{Adaptable to changes in development frameworks and tools}$. Available to progress in terms of improving in the technologies I master or learn to handle new technologies. For example, if a new version of the framework being used comes out, I adapt quickly to the changes.
+- **Adaptable to changes in development frameworks and tools**. Available to progress in terms of improving in the technologies I master or learn to handle new technologies. For example, if a new version of the framework being used comes out, I adapt quickly to the changes.
 
 # Hard Skills or Abilities
 
