@@ -3,6 +3,7 @@
 # Contact
 
 $\textbf{Carlos Carret Miranda}$
+$\textbf{Bachelor in Computer Science}$
 
 krtucho98@gmail.com
 
@@ -24,22 +25,28 @@ krtucho98@gmail.com
 # Research
 - Participation in **ERMAC 2023** event with presentation of work **Tool for simulating tumor growth in various regions of the human body in three dimensions**: [url](https://www.even3.com.br/documentos/imprimir?i=1587580.83572266.788310.8.504503015422774001630&cc=563DFE57-28EE-4831-B2E0-D1F8F3EE7A29)
 - Participation in **ELACTAM 2024** event with presentation of work **Simulation of tumor growth in various regions of the human body in 3 dimensions**
+- Currently submitting **articles** corresponding to the research of this section to **journals** such as: [REMAT](https://periodicos.ifrs.edu.br/index.php/REMAT/)
 
 # Experience
 - Worked as a **Backend** Developer at **Guajiritos** using **Nestjs**
-- Worked as Full Stack Developer at BlueBerry using **.NetCore and .NetFramework** and **Angular**.
+- Worked as Part Time, **Full Stack** Developer at **Geocuba** using **Vue with Quasar** and **Nestjs**.
+- Worked as **Student Assistant** of **Computer Science** in the subjects of **Functional Programming** at the **University of Havana**.
+- Worked as **Full Stack** Developer at **BlueBerry** using **.NetCore and .NetFramework** and **Angular**.
 - Currently working as a **Trained Professor** of **Computer Architecture** at the **University of Havana**.
 
 # Soft Skills
 
 - Completion of several projects throughout the $\textbf{Computer Science}$ career, some of the paths that have been touched with these projects are:
+  - $\textbf{Applied Mathematics}$
   - $\textbf{Software Engineering}$
   - $\textbf{Web page design}$
   - $\textbf{Work with Databases}$
   - $\textbf{Creation of backend for web and desktop applications.}$
 - Handling of the $\textbf{Spanish}$ language as a native language and $\textbf{English}$ at a technical-intermediate level.
-- Currently learning $\textbf{French}$.
-- Skill and dexterity with various frameworks for work in frontend such as $\textbf{Vue, Angular}$ and for work in backend such as $\textbf{Nestjs}$ or $\textbf{Nodejs}$, some projects located on my [Github](https://github.com/Krtucho).
+- Currently learning $\textbf{French}$ and a little bit of $\textbf{German}$.
+<!-- - Currently learning $\textbf{German}$. -->
+- **Adaptable in learning and reading necessary documentation for the project one is working on**, for example, to carry out a project on Applied Computing in biology or medicine, I usually read bibliography to specialize in these fields.
+- Skill and dexterity with various **frameworks** for work in frontend such as $\textbf{Vue, Angular}$ and for work in backend such as $\textbf{Nestjs}$ or $\textbf{Nodejs}$, some projects located on my [Github](https://github.com/Krtucho).
 - Skill and experience working in $\textbf{Git}$, the projects are located on my [Github](https://github.com/Krtucho).
 - I have enjoyed working in a team on projects like  [The-Sims](https://github.com/Krtucho/The-Sims) or others that are located on my [Github](https://github.com/Krtucho).
 - **Adaptable to changes in development frameworks and tools**. Available to progress in terms of improving in the technologies I master or learn to handle new technologies. For example, if a new version of the framework being used comes out, I adapt quickly to the changes.
@@ -86,4 +93,5 @@ krtucho98@gmail.com
 
 # Education
 <!-- - Currently studying in the $\textbf{last year (4th)}$ of $\textbf{Computer Science}$ at the $\textbf{University of Havana}$. -->
-- Bachelor of Science in $\textbf{Computer Science}$ at the $\textbf{University of Havana}$ from Monday, January 15, 2024.
+- **High School Diploma** at the **Vocational High School Institute of Exact Sciences Vladimir Ilich Lenin**
+- **Bachelor** of Science in $\textbf{Computer Science}$ at the $\textbf{University of Havana}$ from Monday, January 15, 2024.
