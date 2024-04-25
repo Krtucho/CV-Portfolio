@@ -3,6 +3,7 @@
 # Contact
 
 $\textbf{Carlos Carret Miranda}$
+
 $\textbf{Bachelor in Computer Science}$
 
 krtucho98@gmail.com
