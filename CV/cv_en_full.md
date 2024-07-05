@@ -29,11 +29,11 @@ krtucho98@gmail.com
 - Currently submitting **articles** corresponding to the research of this section to **journals** such as: [REMAT](https://periodicos.ifrs.edu.br/index.php/REMAT/)
 
 # Experience
-- Worked as a **Backend** Developer at **Guajiritos** using **Nestjs**
-- Worked as Part Time, **Full Stack** Developer at **Geocuba** using **Vue with Quasar** and **Nestjs**.
-- Worked as **Student Assistant** of **Computer Science** in the subjects of **Functional Programming** at the **University of Havana**.
-- Worked as **Full Stack** Developer at **BlueBerry** using **.NetCore and .NetFramework** and **Angular**.
-- Currently working as a **Trained Professor** of **Computer Architecture** at the **University of Havana**.
+- Worked as a **Backend** Developer at **Guajiritos** using **Nestjs** from **03/2022** to **08/2022**
+- Worked as Part Time, **Full Stack** Developer at **Geocuba** using **Vue with Quasar** and **Nestjs** from **07/2022** to **02/2023**.
+- Worked as **Student Assistant** of **Computer Science** in the subjects of **Functional Programming** at the **University of Havana** from **02/2023** to **08/2023**.
+- Worked as **Full Stack** Developer at **BlueBerry** using **.NetCore and .NetFramework** and **Angular** from **10/2023** to **01/2024**.
+- Currently working as a **Trained Professor** of **Computer Architecture** at the **University of Havana** since **02/2024**.
 
 # Soft Skills
 
@@ -44,7 +44,7 @@ krtucho98@gmail.com
   - $\textbf{Work with Databases}$
   - $\textbf{Creation of backend for web and desktop applications.}$
 - Handling of the $\textbf{Spanish}$ language as a native language and $\textbf{English}$ at a technical-intermediate level (B1).
-- Knowledg of $\textbf{French}$ at a basic-intermediate level (A2) and $\textbf{German}$ at a basic level (A1)
+- Knowledg of $\textbf{French}$ at a basic-intermediate level (A2) and $\textbf{German}$ at a basic level (A1).
 - Currently learning $\textbf{French}$ and $\textbf{German}$.
 <!-- - Currently learning $\textbf{German}$. -->
 - **Adaptable in learning and reading necessary documentation for the project one is working on**, for example, to carry out a project on Applied Computing in biology or medicine, I usually read bibliography to specialize in these fields.
