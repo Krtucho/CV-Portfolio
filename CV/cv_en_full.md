@@ -11,10 +11,7 @@ krtucho98@gmail.com
 +5354820768
 
 ## Social Networks
-[Portfolio](https://krtucho-portfolio.web.app/)
-[LinkedIn](http://linkedin.com/in/krtucho)
-[GitHub](https://github.com/Krtucho/)
-[Telegram](https://t.me/Krtucho)
+[Portfolio](https://krtucho-portfolio.web.app/) [LinkedIn](http://linkedin.com/in/krtucho) [GitHub](https://github.com/Krtucho/) [Telegram](https://t.me/Krtucho)
 
 # Professional Profile
 - Creation and layout of a web page in $\textbf{Angular}$ at $\textbf{Guajiritos company}$.
@@ -26,7 +23,8 @@ krtucho98@gmail.com
 # Research
 - Participation in **ERMAC 2023** event with presentation of work **Tool for simulating tumor growth in various regions of the human body in three dimensions**: [url](https://www.even3.com.br/documentos/imprimir?i=1587580.83572266.788310.8.504503015422774001630&cc=563DFE57-28EE-4831-B2E0-D1F8F3EE7A29)
 - Participation in **ELACTAM 2024** event with presentation of work **Simulation of tumor growth in various regions of the human body in 3 dimensions**
-- Currently submitting **articles** corresponding to the research of this section to **journals** such as: [REMAT](https://periodicos.ifrs.edu.br/index.php/REMAT/)
+- Publication of article titled **Ferramenta para simular o crescimento de tumores em várias regiões do corpo humano em três dimensões**(See [here](https://doi.org/10.35819/remat2024v10iespecialid7102)) in [REMAT](https://periodicos.ifrs.edu.br/index.php/REMAT/) **journal** since **July 19, 2024**.
+- Currently developing **articles** corresponding to topics related to this section.
 
 # Experience
 - Worked as a **Backend** Developer at **Guajiritos** using **Nestjs** from **03/2022** to **08/2022**
