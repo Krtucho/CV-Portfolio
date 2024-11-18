@@ -87,6 +87,7 @@ krtucho98@gmail.com
 - $\textbf{Nextjs}$ | [My Forum DApp](https://github.com/Krtucho/my_forum_dApp)
 - $\textbf{Nodejs}$ | [Timestamp Project](https://github.com/Krtucho/boilerplate-project-timestamp)
 - $\textbf{Quasar}$ | [GeoCuba](https://github.com/Krtucho/GeoCuba)
+- $\textbf{React}$ | [My Forum DApp](https://github.com/Krtucho/my_forum_dApp)
 - $\textbf{Vue}$ | [GeoCuba](https://github.com/Krtucho/GeoCuba)
 - $\textbf{Unity}$ | [Cellular_Automata](https://github.com/Krtucho/cellular_automata)
 
