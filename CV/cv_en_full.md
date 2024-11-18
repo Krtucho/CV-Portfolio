@@ -8,14 +8,15 @@ $\textbf{Bachelor in Computer Science}$
 
 krtucho98@gmail.com
 
-+5354820768
++53 54820768
 
 ## Social Networks
 [Portfolio](https://krtucho-portfolio.web.app/) [LinkedIn](http://linkedin.com/in/krtucho) [GitHub](https://github.com/Krtucho/) [Telegram](https://t.me/Krtucho)
 
 # Professional Profile
-- Creation and layout of a web page in $\textbf{Angular}$ at $\textbf{Guajiritos company}$.
-- Creation of web pages using $\textbf{JavaScript}$ or $\textbf{TypeScript}$ frameworks such as $\textbf{Vue, React, Nestjs}$, and $\textbf{Nodejs}$.
+- Creation and layout of web pages and web applications in $\textbf{React}$ and $\textbf{Nextjs}$.
+- Creation and layout of web pages in $\textbf{Angular}$.
+- Creation of web pages using $\textbf{JavaScript}$ or $\textbf{TypeScript}$ frameworks such as $\textbf{Vue,  Nestjs}$, and $\textbf{Nodejs}$.
 - Creation of web applications using $\textbf{C}$#, $\textbf{SQL, .NetFramework}$.
 - Creation of Desktop applications for $\textbf{Windows}$ using $\textbf{C}$# and $\textbf{.NetFramework}$.
 - Creation of $\textbf{Telegram bots}$.
@@ -31,8 +32,10 @@ krtucho98@gmail.com
 - Worked as Part Time, **Full Stack** Developer at **Geocuba** using **Vue with Quasar** and **Nestjs** from **07/2022** to **02/2023**.
 - Worked as **Student Assistant** of **Computer Science** in the subjects of **Functional Programming** at the **University of Havana** from **02/2023** to **08/2023**.
 - Worked as **Full Stack** Developer at **BlueBerry** using **.NetCore and .NetFramework** and **Angular** from **10/2023** to **01/2024**.
-- Worked working as a **Trained Professor** of **Computer Architecture** at the **University of Havana** from **02/2024** to **09/2024**.
-- Currently working as a **Network Technician at the Central Node of the University of Havana** since **02/2024**.
+- Worked as **Trained Professor** of **Computer Architecture** at the **University of Havana** from **02/2024** to **09/2024**.
+- Worked as **Network Technician** at the **Central Node of the University of Havana** from **02/2024** to **10/2024**.
+- Currently working as **Frontend** Developer at **Curious Website** using **Nextjs** since **10/2024**.
+
 
 # Soft Skills
 
@@ -47,7 +50,7 @@ krtucho98@gmail.com
 - Currently learning $\textbf{French}$ and $\textbf{German}$.
 <!-- - Currently learning $\textbf{German}$. -->
 - **Adaptable in learning and reading necessary documentation for the project one is working on**, for example, to carry out a project on Applied Computing in biology or medicine, I usually read bibliography to specialize in these fields.
-- Skill and dexterity with various **frameworks** for work in frontend such as $\textbf{Vue, Angular}$ and for work in backend such as $\textbf{Nestjs}$ or $\textbf{Nodejs}$, some projects located on my [Github](https://github.com/Krtucho).
+- Skill and dexterity with various **frameworks** for work in frontend such as $\textbf{Vue, React, Nextjs, Angular}$ and for work in backend such as $\textbf{Nestjs}$ or $\textbf{Nodejs}$, some projects located on my [Github](https://github.com/Krtucho).
 - Skill and experience working in $\textbf{Git}$, the projects are located on my [Github](https://github.com/Krtucho).
 - I have enjoyed working in a team on projects like  [The-Sims](https://github.com/Krtucho/The-Sims) or others that are located on my [Github](https://github.com/Krtucho).
 - **Adaptable to changes in development frameworks and tools**. Available to progress in terms of improving in the technologies I master or learn to handle new technologies. For example, if a new version of the framework being used comes out, I adapt quickly to the changes.
@@ -80,7 +83,8 @@ krtucho98@gmail.com
 - $\textbf{GraphQl}$
 - $\textbf{Jestjs}$
 - $\textbf{Mongodb}$
-- $\textbf{Nestjs}$ | [Animal Shop](https://github.com/Krtucho/Animal-Shop) | [My Forum DApp](https://github.com/Krtucho/my_forum_dApp)
+- $\textbf{Nestjs}$ | [Animal Shop](https://github.com/Krtucho/Animal-Shop) | [Nestjs-Stripe-Prisma](https://github.com/Krtucho/Nestjs-Stripe-Prisma)
+- $\textbf{Nextjs}$ | [My Forum DApp](https://github.com/Krtucho/my_forum_dApp)
 - $\textbf{Nodejs}$ | [Timestamp Project](https://github.com/Krtucho/boilerplate-project-timestamp)
 - $\textbf{Quasar}$ | [GeoCuba](https://github.com/Krtucho/GeoCuba)
 - $\textbf{Vue}$ | [GeoCuba](https://github.com/Krtucho/GeoCuba)
