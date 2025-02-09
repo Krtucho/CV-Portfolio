@@ -45,14 +45,16 @@ krtucho98@gmail.com
   - $\textbf{Web page design}$
   - $\textbf{Work with Databases}$
   - $\textbf{Creation of backend for web and desktop applications.}$
-- Handling of the $\textbf{Spanish}$ language as a native language and $\textbf{English}$ at a technical-intermediate level (B1).
-- Knowledg of $\textbf{French}$ at a technical-intermediate  level (B1) and $\textbf{German}$ at a basic level (A1).
-- Currently learning $\textbf{French}$ and $\textbf{German}$.
+- Handling of the $\textbf{Spanish}$ language as a native language and $\textbf{English}$ at a technical-intermediate level (B2).
+- Knowledg of $\textbf{Portuguese}$ at a basic level (A1).
+- Knowledg of $\textbf{French}$ at a technical-intermediate  level (B2) and $\textbf{German}$ at a basic level (A1).
+- Currently learning $\textbf{Portuguese}$.
 <!-- - Currently learning $\textbf{German}$. -->
 - **Adaptable in learning and reading necessary documentation for the project one is working on**, for example, to carry out a project on Applied Computing in biology or medicine, I usually read bibliography to specialize in these fields.
 - Skill and dexterity with various **frameworks** for work in frontend such as $\textbf{Vue, React, Nextjs, Angular}$ and for work in backend such as $\textbf{Nestjs}$ or $\textbf{Nodejs}$, some projects located on my [Github](https://github.com/Krtucho).
 - Skill and experience working in $\textbf{Git}$, the projects are located on my [Github](https://github.com/Krtucho).
-- I have enjoyed working in a team on projects like  [The-Sims](https://github.com/Krtucho/The-Sims) or others that are located on my [Github](https://github.com/Krtucho).
+- **Teamwork**. Ability to collaborate effectively, communicating clearly and resolving conflicts to achieve common goals. I have enjoyed working in a team on projects like  [The-Sims](https://github.com/Krtucho/The-Sims) or others that are located on my [Github](https://github.com/Krtucho).
+- **Scrum Knowledge**: Experience having daily and weekly meetings, resolving obstacles and following the details of the Product Backlog.
 - **Adaptable to changes in development frameworks and tools**. Available to progress in terms of improving in the technologies I master or learn to handle new technologies. For example, if a new version of the framework being used comes out, I adapt quickly to the changes.
 
 # Hard Skills or Abilities
