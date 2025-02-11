@@ -39,20 +39,19 @@ krtucho98@gmail.com
 
 # Soft Skills
 
-- Completion of several projects throughout the $\textbf{Computer Science}$ career, some of the paths that have been touched with these projects are:
-  - $\textbf{Applied Mathematics}$
-  - $\textbf{Software Engineering}$
-  - $\textbf{Web page design}$
-  - $\textbf{Work with Databases}$
-  - $\textbf{Creation of backend for web and desktop applications.}$
-- Handling of the $\textbf{Spanish}$ language as a native language and $\textbf{English}$ at a technical-intermediate level (B2).
-- Knowledg of $\textbf{Portuguese}$ at a basic level (A1).
-- Knowledg of $\textbf{French}$ at a technical-intermediate  level (B2) and $\textbf{German}$ at a basic level (A1).
-- Currently learning $\textbf{Portuguese}$.
-<!-- - Currently learning $\textbf{German}$. -->
+- Completion of several projects throughout the **Computer Science** career, some of the paths that have been touched with these projects are:
+  - **Applied Mathematics**
+  - **Software Engineering**
+  - **Web page design**
+  - **Work with Databases**
+  - **Creation of backend for web and desktop applications.**
+- Handling of the **Spanish** language as a native language and **English** at a technical-intermediate level (B2).
+- Knowledg of **Portuguese** at a basic level (A1).
+- Knowledg of **French** at a technical-intermediate  level (B2) and **German** at a basic level (A1).
+- Currently learning **Portuguese**.
 - **Adaptable in learning and reading necessary documentation for the project one is working on**, for example, to carry out a project on Applied Computing in biology or medicine, I usually read bibliography to specialize in these fields.
-- Skill and dexterity with various **frameworks** for work in frontend such as $\textbf{Vue, React, Nextjs, Angular}$ and for work in backend such as $\textbf{Nestjs}$ or $\textbf{Nodejs}$, some projects located on my [Github](https://github.com/Krtucho).
-- Skill and experience working in $\textbf{Git}$, the projects are located on my [Github](https://github.com/Krtucho).
+- Skill and dexterity with various **frameworks** for work in frontend such as **Vue, React, Nextjs, Angular** and for work in backend such as **Nestjs** or **Nodejs**, some projects located on my [Github](https://github.com/Krtucho).
+- Skill and experience working in **Git**, the projects are located on my [Github](https://github.com/Krtucho).
 - **Teamwork**. Ability to collaborate effectively, communicating clearly and resolving conflicts to achieve common goals. I have enjoyed working in a team on projects like  [The-Sims](https://github.com/Krtucho/The-Sims) or others that are located on my [Github](https://github.com/Krtucho).
 - **Scrum Knowledge**: Experience having daily and weekly meetings, resolving obstacles and following the details of the Product Backlog.
 - **Adaptable to changes in development frameworks and tools**. Available to progress in terms of improving in the technologies I master or learn to handle new technologies. For example, if a new version of the framework being used comes out, I adapt quickly to the changes.
@@ -60,25 +59,25 @@ krtucho98@gmail.com
 # Hard Skills or Abilities
 
 ## PROGRAMMING LANGUAGES
-- $\textbf{C}$ | [Shell](https://github.com/Krtucho/Shell) | [WebServer](https://github.com/Krtucho/WebServer)
-- $\textbf{C++}$
-- $\textbf{C}$# | [Cellular_Automata](https://github.com/Krtucho/cellular_automata) | [The Sims](https://github.com/Krtucho/The-Sims)
-- $\textbf{CSS}$ | [Museum](https://github.com/dionisio35/LouvreMuseum) | [Bahamas](https://github.com/Krtucho/Bahamas)
-- $\textbf{Dart}$
-- $\textbf{Haskell}$ | [Sudoku-Hidato](https://github.com/Krtucho/Sudoku-Hidato-Haskell)
-- $\textbf{HTML}$ | [Bahamas](https://github.com/Krtucho/Bahamas)
-- $\textbf{JavaScript}$ | [Timestamp Project](https://github.com/Krtucho/boilerplate-project-timestamp)
-- $\textbf{SQL}$ | [Animal Shop](https://github.com/Krtucho/Animal-Shop) | [Distributed Search Engine](https://github.com/Krtucho/distributed_search_engine)
-- $\textbf{Python}$ | [Distributed Search Engine](https://github.com/Krtucho/distributed_search_engine) | [SRI](https://github.com/Krtucho/SRI) | [Networks-Py](https://github.com/Krtucho/Networks-Py) | [Proyecto Automata](https://github.com/Krtucho/proyecto_automata)
-- $\textbf{Prolog}$ | [Azul](https://github.com/Krtucho/Azul-Prolog)
-- $\textbf{Rust}$
-- $\textbf{Solidity}$
-- $\textbf{TypeScript}$ | [Animal Shop](https://github.com/Krtucho/Animal-Shop) | [My Forum DApp](https://github.com/Krtucho/my_forum_dApp)
+- **C** | [Shell](https://github.com/Krtucho/Shell) | [WebServer](https://github.com/Krtucho/WebServer)
+- **C++**
+- **C#** | [Cellular_Automata](https://github.com/Krtucho/cellular_automata) | [The Sims](https://github.com/Krtucho/The-Sims)
+- **CSS** | [Museum](https://github.com/dionisio35/LouvreMuseum) | [Bahamas](https://github.com/Krtucho/Bahamas)
+- **Dart**
+- **Haskell** | [Sudoku-Hidato](https://github.com/Krtucho/Sudoku-Hidato-Haskell)
+- **HTML** | [Bahamas](https://github.com/Krtucho/Bahamas)
+- **JavaScript** | [Timestamp Project](https://github.com/Krtucho/boilerplate-project-timestamp)
+- **SQL** | [Animal Shop](https://github.com/Krtucho/Animal-Shop) | [Distributed Search Engine](https://github.com/Krtucho/distributed_search_engine)
+- **Python** | [Distributed Search Engine](https://github.com/Krtucho/distributed_search_engine) | [SRI](https://github.com/Krtucho/SRI) | [Networks-Py](https://github.com/Krtucho/Networks-Py) | [Proyecto Automata](https://github.com/Krtucho/proyecto_automata)
+- **Prolog** | [Azul](https://github.com/Krtucho/Azul-Prolog)
+- **Rust**
+- **Solidity**
+- **TypeScript** | [Animal Shop](https://github.com/Krtucho/Animal-Shop) | [My Forum DApp](https://github.com/Krtucho/my_forum_dApp)
 
 ## FRAMEWORKS
-- $\textbf{Angular}$ | [Bahamas](https://github.com/Krtucho/Bahamas)
-- $\textbf{Blender}$
-- $\textbf{Bootstrap**
+- **Angular** | [Bahamas](https://github.com/Krtucho/Bahamas)
+- **Blender**
+- **Bootstrap**
 - **Django** | [Museum](https://github.com/dionisio35/LouvreMuseum)
 - **Dotnet** | [Cellular_Automata](https://github.com/Krtucho/cellular_automata)
 - **Flutter**
@@ -94,11 +93,11 @@ krtucho98@gmail.com
 - **Unity** | [Cellular_Automata](https://github.com/Krtucho/cellular_automata)
 
 ## OTHER TOOLS
-- **TailwindCss**
 - **Bash** | [Distributed Search Engine](https://github.com/Krtucho/distributed_search_engine) | [Shell](https://github.com/Krtucho/Shell) 
 - **Docker** | [Distributed Search Engine](https://github.com/Krtucho/distributed_search_engine)
 - **Git** | [GitHub Profile](https://github.com/Krtucho/Krtucho)
 - **PostgreSQL** | [Animal Shop](https://github.com/Krtucho/Animal-Shop)
+- **TailwindCss**
 
 # Education
 <!-- - Currently studying in the $\textbf{last year (4th)}$ of $\textbf{Computer Science}$ at the $\textbf{University of Havana}$. -->
