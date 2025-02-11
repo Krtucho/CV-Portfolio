@@ -2,9 +2,9 @@
 
 # Contact
 
-$\textbf{Carlos Carret Miranda}$
+**Carlos Carret Miranda**
 
-$\textbf{Bachelor in Computer Science}$
+**Bachelor in Computer Science**
 
 krtucho98@gmail.com
 
@@ -14,12 +14,12 @@ krtucho98@gmail.com
 [Portfolio](https://krtucho-portfolio.web.app/) [LinkedIn](http://linkedin.com/in/krtucho) [GitHub](https://github.com/Krtucho/) [Telegram](https://t.me/Krtucho)
 
 # Professional Profile
-- Creation and layout of web pages and web applications in $\textbf{React}$ and $\textbf{Nextjs}$.
-- Creation and layout of web pages in $\textbf{Angular}$.
-- Creation of web pages using $\textbf{JavaScript}$ or $\textbf{TypeScript}$ frameworks such as $\textbf{Vue,  Nestjs}$, and $\textbf{Nodejs}$.
-- Creation of web applications using $\textbf{C}$#, $\textbf{SQL, .NetFramework}$.
-- Creation of Desktop applications for $\textbf{Windows}$ using $\textbf{C}$# and $\textbf{.NetFramework}$.
-- Creation of $\textbf{Telegram bots}$.
+- Creation and layout of web pages and web applications in **React** and **Nextjs**.
+- Creation and layout of web pages in **Angular**.
+- Creation of web pages using **JavaScript** or **TypeScript** frameworks such as **Vue,  Nestjs**, and **Nodejs**.
+- Creation of web applications using **C#**, **SQL, .NetFramework**.
+- Creation of Desktop applications for **Windows** using **C#** and **.NetFramework**.
+- Creation of **Telegram bots**.
 
 # Research
 - Participation in **ERMAC 2023** event with presentation of work **Tool for simulating tumor growth in various regions of the human body in three dimensions**: [url](https://www.even3.com.br/documentos/imprimir?i=1587580.83572266.788310.8.504503015422774001630&cc=563DFE57-28EE-4831-B2E0-D1F8F3EE7A29)
@@ -78,28 +78,29 @@ krtucho98@gmail.com
 ## FRAMEWORKS
 - $\textbf{Angular}$ | [Bahamas](https://github.com/Krtucho/Bahamas)
 - $\textbf{Blender}$
-- $\textbf{Bootstrap}$
-- $\textbf{Django}$ | [Museum](https://github.com/dionisio35/LouvreMuseum)
-- $\textbf{Dotnet}$ | [Cellular_Automata](https://github.com/Krtucho/cellular_automata)
-- $\textbf{Flutter}$
-- $\textbf{GraphQl}$
-- $\textbf{Jestjs}$
-- $\textbf{Mongodb}$
-- $\textbf{Nestjs}$ | [Animal Shop](https://github.com/Krtucho/Animal-Shop) | [Nestjs-Stripe-Prisma](https://github.com/Krtucho/Nestjs-Stripe-Prisma)
-- $\textbf{Nextjs}$ | [My Forum DApp](https://github.com/Krtucho/my_forum_dApp)
-- $\textbf{Nodejs}$ | [Timestamp Project](https://github.com/Krtucho/boilerplate-project-timestamp)
-- $\textbf{Quasar}$ | [GeoCuba](https://github.com/Krtucho/GeoCuba)
-- $\textbf{React}$ | [My Forum DApp](https://github.com/Krtucho/my_forum_dApp)
-- $\textbf{Vue}$ | [GeoCuba](https://github.com/Krtucho/GeoCuba)
-- $\textbf{Unity}$ | [Cellular_Automata](https://github.com/Krtucho/cellular_automata)
+- $\textbf{Bootstrap**
+- **Django** | [Museum](https://github.com/dionisio35/LouvreMuseum)
+- **Dotnet** | [Cellular_Automata](https://github.com/Krtucho/cellular_automata)
+- **Flutter**
+- **GraphQl**
+- **Jestjs**
+- **Mongodb**
+- **Nestjs** | [Animal Shop](https://github.com/Krtucho/Animal-Shop) | [Nestjs-Stripe-Prisma](https://github.com/Krtucho/Nestjs-Stripe-Prisma)
+- **Nextjs** | [My Forum DApp](https://github.com/Krtucho/my_forum_dApp)
+- **Nodejs** | [Timestamp Project](https://github.com/Krtucho/boilerplate-project-timestamp)
+- **Quasar** | [GeoCuba](https://github.com/Krtucho/GeoCuba)
+- **React** | [My Forum DApp](https://github.com/Krtucho/my_forum_dApp)
+- **Vue** | [GeoCuba](https://github.com/Krtucho/GeoCuba)
+- **Unity** | [Cellular_Automata](https://github.com/Krtucho/cellular_automata)
 
 ## OTHER TOOLS
-- $\textbf{Bash}$ | [Distributed Search Engine](https://github.com/Krtucho/distributed_search_engine) | [Shell](https://github.com/Krtucho/Shell) 
-- $\textbf{Docker}$ | [Distributed Search Engine](https://github.com/Krtucho/distributed_search_engine)
-- $\textbf{Git}$ | [GitHub Profile](https://github.com/Krtucho/Krtucho)
-- $\textbf{PostgreSQL}$ | [Animal Shop](https://github.com/Krtucho/Animal-Shop)
+- **TailwindCss**
+- **Bash** | [Distributed Search Engine](https://github.com/Krtucho/distributed_search_engine) | [Shell](https://github.com/Krtucho/Shell) 
+- **Docker** | [Distributed Search Engine](https://github.com/Krtucho/distributed_search_engine)
+- **Git** | [GitHub Profile](https://github.com/Krtucho/Krtucho)
+- **PostgreSQL** | [Animal Shop](https://github.com/Krtucho/Animal-Shop)
 
 # Education
 <!-- - Currently studying in the $\textbf{last year (4th)}$ of $\textbf{Computer Science}$ at the $\textbf{University of Havana}$. -->
 - **High School Diploma** at the **Vocational High School Institute of Exact Sciences Vladimir Ilich Lenin**
-- **Bachelor** of Science in $\textbf{Computer Science}$ at the $\textbf{University of Havana}$ from Monday, January 15, 2024.
+- **Bachelor** of Science in **Computer Science** at the **University of Havana** from Monday, January 15, 2024.
