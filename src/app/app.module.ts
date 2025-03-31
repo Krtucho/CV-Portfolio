@@ -7,6 +7,7 @@ import { ResumenComponent } from './resumen/resumen.component';
 import { PortafolioComponent } from './portafolio/portafolio.component';
 import { BlogComponent } from './blog/blog.component';
 import { ContactoComponent } from './contacto/contacto.component';
+import { ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { ContactoComponent } from './contacto/contacto.component';
   ],
   imports: [
     BrowserModule,
-    HttpClientModule
+    HttpClientModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

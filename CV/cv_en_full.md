@@ -35,6 +35,7 @@ krtucho98@gmail.com
 - Worked as **Trained Professor** of **Computer Architecture** at the **University of Havana** from **02/2024** to **09/2024**.
 - Worked as **Network Technician** at the **Central Node of the University of Havana** from **02/2024** to **10/2024**.
 - Currently working as **Frontend** Developer at **Curious Website** using **Nextjs** since **10/2024**.
+- Currently working as **Frontend** Developer at [Space Hunters](https://www.linkedin.com/company/space-hunters-game) using **Nextjs** since **12/2024**.
 
 
 # Soft Skills
@@ -46,7 +47,7 @@ krtucho98@gmail.com
   - **Work with Databases**
   - **Creation of backend for web and desktop applications.**
 - Handling of the **Spanish** language as a native language and **English** at a technical-intermediate level (B2).
-- Knowledg of **Portuguese** at a basic level (A1).
+- Knowledg of **Portuguese** at a basic level (A2).
 - Knowledg of **French** at a technical-intermediate  level (B2) and **German** at a basic level (A1).
 - Currently learning **Portuguese**.
 - **Adaptable in learning and reading necessary documentation for the project one is working on**, for example, to carry out a project on Applied Computing in biology or medicine, I usually read bibliography to specialize in these fields.
