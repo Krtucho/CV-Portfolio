@@ -20,11 +20,11 @@ krtucho98@gmail.com
 - Creation of **Telegram bots**.
 
 # Research
-- Participation in **15th INTERNATIONAL CONFERENCE ON OPERATIONS RESEARCH La Habana, May, 31‐ June 3rd, 2022** en curso de posgrado titulado **Evaluation of Ki-67 index with deep learning** (See [here](https://krtucho-portfolio.web.app/assets/academic/academic/Carlos_Carret_Miranda_Evaluation_of_Ki_67_index_with_deeplearning.pdf)) Carlos Carret Miranda - Evaluation of Ki-67 index with deep learning.pdf
+- Participation in **15th INTERNATIONAL CONFERENCE ON OPERATIONS RESEARCH La Habana, May, 31‐ June 3rd, 2022** en curso de posgrado titulado **Evaluation of Ki-67 index with deep learning** (See [here](https://krtucho-portfolio.web.app/assets/academic/Carlos_Carret_Miranda_Evaluation_of_Ki_67_index_with_deeplearning.pdf))
 - Participation in **ERMAC 2023** event with presentation of work **Tool for simulating tumor growth in various regions of the human body in three dimensions**: (See [here](https://www.even3.com.br/documentos/imprimir?i=1587580.83572266.788310.8.504503015422774001630&cc=563DFE57-28EE-4831-B2E0-D1F8F3EE7A29))
 - Participacion en **Forum Cientifico Estudiantil UH 2023** con la presentacion del trabajo titulado: **Herramienta para la simulacion del crecimiento de tumores en diversas regiones del cuerpo humano en 3 dimensiones.**
-- Participacion en **16-th International Conference on Operation Research, from Febraury 19-23, 2024** en curso de posgrado titulado **Short Introduction to wavelet for signal and image denoising. Use of R packages** Carlos Carret Miranda - Short Introduction to wavelet for signal and image denoising. Use of R packages.pdf
-- Creacion de mi tesis como parte del trabajo final de diploma de la carrera de Ciencias de la Computacion en **Enero de 2024** titulada: **Simulacion del crecimiento de un tumor en varias regiones del cuerpo humano**(See [here](https://doi.org/10.35819/remat2024v10iespecialid7102)) Thesis.pdf
+- Participacion en **16-th International Conference on Operation Research, from Febraury 19-23, 2024** en curso de posgrado titulado **Short Introduction to wavelet for signal and image denoising. Use of R packages** (See [here](https://krtucho-portfolio.web.app/assets/academic/Carlos_Carret_Miranda_Short_Introduction_to_wavelet_for_signal_and_image_denoising_Use_of_R_packages.pdf))
+- Creacion de mi tesis como parte del trabajo final de diploma de la carrera de Ciencias de la Computacion en **Enero de 2024** titulada: **Simulacion del crecimiento de un tumor en varias regiones del cuerpo humano**(See [here](https://krtucho-portfolio.web.app/assets/thesis/Thesis.pdf))
 - Participation in **ELACTAM 2024** event with presentation of work **Simulation of tumor growth in various regions of the human body in 3 dimensions**
 - Publication of article titled **Ferramenta para simular o crescimento de tumores em várias regiões do corpo humano em três dimensões**(See [here](https://doi.org/10.35819/remat2024v10iespecialid7102)) in [REMAT](https://periodicos.ifrs.edu.br/index.php/REMAT/) **journal** since **July 19, 2024**.
 - Currently developing **articles** corresponding to topics related to this section.
@@ -40,7 +40,28 @@ krtucho98@gmail.com
 # Soft Skills
 
 - Completion of several projects throughout the **Computer Science** career, some of the paths that have been touched with these projects are:
+  - **Fundamentos Teóricos y Matemáticos:**
+    - **Matemáticas Discretas**
+    - **Análisis de Algoritmos y Complejidad**
+    - **Placeholder**
+  - **Programación y Desarrollo de Software**
+    - **Paradigmas de Programación**
+    - **Lenguajes de Programación**
+    - **Estructuras de Datos y Algoritmos**
+    - **Ingeniería de Software**
+    - **Placeholder**
+    - **Placeholder**
+    - **Placeholder**
+    - **Placeholder**
+    - **Placeholder**
+    - **Placeholder**
+    - 
+
   - **Applied Mathematics**
+    - **asdfas**
+    - **asdfa**
+
+
   - **Software Engineering**
   - **Web page design**
   - **Work with Databases**
