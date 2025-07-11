@@ -22,7 +22,7 @@ krtucho98@gmail.com
 - Participación en **Forum Cientifico Estudiantil UH 2023** con la presentación del trabajo titulado: **Herramienta para la simulacion del crecimiento de tumores en diversas regiones del cuerpo humano en 3 dimensiones.**
 - Participación en **16-th International Conference on Operation Research, from Febraury 19-23, 2024** en curso de posgrado titulado **Short Introduction to wavelet for signal and image denoising. Use of R packages** (Ver [aquí](https://krtucho-portfolio.web.app/assets/academic/Carlos_Carret_Miranda_Short_Introduction_to_wavelet_for_signal_and_image_denoising_Use_of_R_packages.pdf))
 - Creación de mi tesis como parte del trabajo final de diploma de la carrera de Ciencias de la Computación en **Enero de 2024** titulada: **Simulación del crecimiento de un tumor en varias regiones del cuerpo humano**(Ver [aquí](https://krtucho-portfolio.web.app/assets/thesis/Thesis.pdf))
-- Participación en el evento **ELACTAM 2024** con la presentación del trabajo titulado: **Simulation of tumor growth in various regions of the human body in 3 dimensions**
+- Participación en el evento **ELACTAM 2024** con la presentación del trabajo titulado: **Simulation of tumor growth in various regions of the human body in 3 dimensions**(Ver [aquí](https://krtucho-portfolio.web.app/assets/academic/Elactam.pdf))
 - Actualmente desarrollando **artículos** correspondientes a temas relacionados con esta sección.
 
 # Perfil Profesional
@@ -68,7 +68,7 @@ krtucho98@gmail.com
   - **Matemáticas Aplicadas**
 - **Investigación Científica**: Diseño experimental, análisis de resultados, redacción de informes científicos, búsqueda bibliográfica.
 - Idioma **Español** como lengua nativa e **Inglés** a nivel técnico-intermedio (B2).
-- Conocimiento de  **Francés** a un nivel técnico-intermedio (B2).
+- Conocimiento de  **Francés** a un nivel técnico-intermedio (B2).(Ver [aquí](https://krtucho-portfolio.web.app/assets/languages/diplome.pdf))
 - Conocimiento del **Portugués** a nivel básico(A2).
 - Actualmente aprendiendo **Portugués**.
 - **Adaptable en el aprendizaje y lectura de documentación necesaria para el proyecto en el que se está trabajando**, por ejemplo, para realizar un proyecto sobre Informática Aplicada en biología o medicina, suelo leer bibliografía para especializarme en estos campos.
