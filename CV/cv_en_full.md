@@ -10,7 +10,7 @@
 
 krtucho98@gmail.com
 
-+53 54820768
++51 912 446 957
 
 ## Social Networks
 [Portfolio](https://krtucho-portfolio.web.app/) [LinkedIn](http://linkedin.com/in/krtucho) [GitHub](https://github.com/Krtucho/) [Telegram](https://t.me/Krtucho)
