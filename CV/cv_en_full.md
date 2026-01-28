@@ -6,6 +6,8 @@
 
 **Bachelor in Computer Science**
 
+28/05/1998 - 27 years
+
 krtucho98@gmail.com
 
 +53 54820768
@@ -15,10 +17,8 @@ krtucho98@gmail.com
 
 # Professional Profile
 - Creation and layout of web pages and web applications in **React** and **Nextjs**.
-- Creation and layout of web pages in **Angular**.
 - Creation of web pages using **JavaScript** or **TypeScript** frameworks such as **Vue,  Nestjs**, and **Nodejs**.
-- Creation of web applications using **C#**, **SQL, .NetFramework**.
-- Creation of Desktop applications for **Windows** using **C#** and **.NetFramework**.
+- Creation of mobile applications using **React Native** and **Expo**.
 - Creation of **Telegram bots**.
 
 # Research
@@ -28,14 +28,10 @@ krtucho98@gmail.com
 - Currently developing **articles** corresponding to topics related to this section.
 
 # Experience
-- Worked as a **Backend** Developer at **Guajiritos** using **Nestjs** from **03/2022** to **08/2022**
-- Worked as Part Time, **Full Stack** Developer at **Geocuba** using **Vue with Quasar** and **Nestjs** from **07/2022** to **02/2023**.
-- Worked as **Student Assistant** of **Computer Science** in the subjects of **Functional Programming** at the **University of Havana** from **02/2023** to **08/2023**.
-- Worked as **Full Stack** Developer at **BlueBerry** using **.NetCore and .NetFramework** and **Angular** from **10/2023** to **01/2024**.
-- Worked as **Trained Professor** of **Computer Architecture** at the **University of Havana** from **02/2024** to **09/2024**.
+- Stage as **Full Stack** Developer at **Geocuba** using **Vue with Quasar** and **Nestjs** from **07/2022** to **02/2023**.
 - Worked as **Network Technician** at the **Central Node of the University of Havana** from **02/2024** to **10/2024**.
-- Currently working as **Frontend** Developer at **Curious Website** using **Nextjs** since **10/2024**.
-- Currently working as **Frontend** Developer at [Space Hunters](https://www.linkedin.com/company/space-hunters-game) using **Nextjs** since **12/2024**.
+- Worked as **Frontend** Developer at [Space Hunters](https://www.linkedin.com/company/space-hunters-game) using **Nextjs** from **12/2024** to **08/2025**.
+- Currently working as **Mobile App** Developer at [Fonoma](https://www.linkedin.com/company/fonoma/) using **React Native** and since **05/2025**.
 
 
 # Soft Skills
@@ -90,6 +86,7 @@ krtucho98@gmail.com
 - **Nodejs** | [Timestamp Project](https://github.com/Krtucho/boilerplate-project-timestamp)
 - **Quasar** | [GeoCuba](https://github.com/Krtucho/GeoCuba)
 - **React** | [My Forum DApp](https://github.com/Krtucho/my_forum_dApp)
+- **React Native**
 - **Vue** | [GeoCuba](https://github.com/Krtucho/GeoCuba)
 - **Unity** | [Cellular_Automata](https://github.com/Krtucho/cellular_automata)
 

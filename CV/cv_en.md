@@ -22,7 +22,14 @@ krtucho98@gmail.com
 - Creation of $\textbf{Telegram bots}$.
 
 # Experience
-- Worked as a $\textbf{Backend}$ Developer at $\textbf{Guajiritos}$ using $\textbf{Nestjs}$
+- Worked as a **Backend** Developer at **Guajiritos** using **Nestjs** from **03/2022** to **08/2022**
+- Worked as Part Time, **Full Stack** Developer at **Geocuba** using **Vue with Quasar** and **Nestjs** from **07/2022** to **02/2023**.
+- Worked as **Student Assistant** of **Computer Science** in the subjects of **Functional Programming** at the **University of Havana** from **02/2023** to **08/2023**.
+- Worked as **Full Stack** Developer at **BlueBerry** using **.NetCore and .NetFramework** and **Angular** from **10/2023** to **01/2024**.
+- Worked as **Trained Professor** of **Computer Architecture** at the **University of Havana** from **02/2024** to **09/2024**.
+- Worked as **Network Technician** at the **Central Node of the University of Havana** from **02/2024** to **10/2024**.
+- Worked as **Frontend** Developer at [Space Hunters](https://www.linkedin.com/company/space-hunters-game) using **Nextjs** from **12/2024** to **08/2025**.
+- Currently working as **Mobile App** Developer at [Fonoma](https://www.linkedin.com/company/space-hunters-game) using **Nextjs** since **05/2025**.
 
 # Soft Skills
 
