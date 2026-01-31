@@ -29,6 +29,7 @@ krtucho98@gmail.com
 
 # Experience
 - Stage as **Full Stack** Developer at **Geocuba** using **Vue with Quasar** and **Nestjs** from **07/2022** to **02/2023**.
+- Worked as **Full Stack** Developer at **BlueBerry** using **.NetCore and .NetFramework** and **Angular** from **10/2023** to **01/2024**.
 - Worked as **Network Technician** at the **Central Node of the University of Havana** from **02/2024** to **10/2024**.
 - Worked as **Frontend** Developer at [Space Hunters](https://www.linkedin.com/company/space-hunters-game) using **Nextjs** from **12/2024** to **08/2025**.
 - Currently working as **Mobile App** Developer at [Fonoma](https://www.linkedin.com/company/fonoma/) using **React Native** and since **05/2025**.
@@ -43,8 +44,8 @@ krtucho98@gmail.com
   - **Work with Databases**
   - **Creation of backend for web and desktop applications.**
 - Handling of the **Spanish** language as a native language and **English** at a technical-intermediate level (B2).
-- Knowledg of **Portuguese** at a basic level (A2).
-- Knowledg of **French** at a technical-intermediate  level (B2) and **German** at a basic level (A1).
+- Knowledge of **French** at a technical-intermediate  level (B2).
+- Knowledge of **Portuguese** at a basic level (A2).
 - Currently learning **Portuguese**.
 - **Adaptable in learning and reading necessary documentation for the project one is working on**, for example, to carry out a project on Applied Computing in biology or medicine, I usually read bibliography to specialize in these fields.
 - Skill and dexterity with various **frameworks** for work in frontend such as **Vue, React, Nextjs, Angular** and for work in backend such as **Nestjs** or **Nodejs**, some projects located on my [Github](https://github.com/Krtucho).
