@@ -1,4 +1,4 @@
-# Carlos Carret Miranda – Mid-Level Software Engineer (Full-Stack)
+# Carlos Carret Miranda – Full Stack Software Engineer
 
 krtucho98@gmail.com | +51 912 446 957 | Lima, Peru, Remote | [LinkedIn](http://linkedin.com/in/krtucho) | [GitHub](https://github.com/Krtucho/) | [Portfolio](https://krtucho-portfolio.web.app/)
 
