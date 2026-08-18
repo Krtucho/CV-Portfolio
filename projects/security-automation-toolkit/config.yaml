@@ -1,0 +1,60 @@
+toolkit:
+  name: "Security Automation & Monitoring Toolkit"
+  version: "1.0.0"
+  log_level: "INFO"
+
+scanning:
+  sast:
+    enabled: true
+    severity_threshold: "medium"
+    rules_dirs:
+      - "rules/sast"
+  secret:
+    enabled: true
+    exclude_dirs:
+      - ".git"
+      - "node_modules"
+      - "venv"
+      - "__pycache__"
+      - ".venv"
+
+monitoring:
+  log_monitor:
+    enabled: true
+    watch_dirs:
+      - "/var/log"
+      - "/var/log/nginx"
+      - "/var/log/cloud-init"
+    rules_dir: "rules/sigma"
+  siem:
+    correlation_window_minutes: 60
+    alert_webhook: ""  # Slack/PagerDuty webhook URL
+
+cloud:
+  aws:
+    region: "us-east-1"
+    enable_guardduty: true
+    enable_waf: true
+  gcp:
+    project_id: ""
+    region: "us-central1"
+
+incident_response:
+  auto_remediate: false  # Manual by default
+  notification_channels:
+    - type: "slack"
+      webhook: ""
+    - type: "email"
+      address: ""
+
+crypto:
+  default_algorithm: "AES-256-GCM"
+  key_rotation_days: 90
+  pbkdf2_iterations: 100000
+
+reporting:
+  formats:
+    - "html"
+    - "json"
+    - "pdf"
+  output_dir: "reports"

@@ -1,0 +1,68 @@
+title: Brute Force SSH Attack
+id: d4e5f6a7-b8c9-0123-def4-567890abcdef
+status: experimental
+description: Detects multiple failed SSH login attempts
+logsource:
+  service: auth
+  product: linux
+detection:
+  selection:
+    event:
+      - Failed password for
+      - Connection closed by authenticating user
+  condition: selection
+  timeframe: 5m
+  threshold: 10
+falsepositives:
+  - Legitimate users with expired passwords
+  - Automated monitoring systems
+level: high
+
+---
+
+title: Port Scan Detection
+id: b8c9d0e1-f2a3-4567-bcde-890123456789
+status: experimental
+description: Detects port scanning activity from a single source
+logsource:
+  service: firewall
+  product: linux
+detection:
+  selection:
+    event: Connection attempt
+    port:
+      - 22
+      - 80
+      - 443
+      - 3306
+      - 5432
+      - 6379
+      - 27017
+  condition: selection
+  timeframe: 1m
+  threshold: 20
+falsepositives:
+  - Legitimate security scanners
+  - Monitoring tools
+level: medium
+
+---
+
+title: DNS Tunneling Detection
+id: f1a2b3c4-d5e6-7890-abcd-ef1234567890
+status: experimental
+description: Detects potential DNS tunneling by analyzing query sizes and frequency
+logsource:
+  service: dns
+  product: linux
+detection:
+  selection:
+    query_length: "> 52"
+    query_type: TXT
+  condition: selection
+  timeframe: 5m
+  threshold: 100
+falsepositives:
+  - Legitimate large DNS responses
+  - CDN and load balancer queries
+level: medium
