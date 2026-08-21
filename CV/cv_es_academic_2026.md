@@ -4,7 +4,7 @@ krtucho98@gmail.com | +53 54820768 | [Portfolio](https://krtucho-portfolio.web.a
 
 ## Resumen Profesional
 
-Licenciado en Ciencia de la Computación por la **Universidad de La Habana**, con trayectoria como investigador (publicaciones en revistas científicas, participación en congresos internacionales y tesis de diploma) y como docente universitario (Alumno Ayudante y Profesor Adiestrado). Con experiencia adicional como Técnico de Redes / Dev Ops, y actualmente en desarrollo Full Stack con **React**, **Next.js**, **FastAPI** y **Kubernetes**.
+Licenciado en Ciencia de la Computación por la **Universidad de La Habana**, con trayectoria como investigador (publicaciones en revistas científicas, participación en congresos internacionales y tesis de diploma) y como docente universitario (Alumno Ayudante y Profesor Adiestrado). Con experiencia adicional como Técnico de Redes / Dev Ops, y actualmente en desarrollo Full Stack, mayormente orientado a la interfaz visual UI/UX.
 
 ## Investigación
 
@@ -15,7 +15,7 @@ Licenciado en Ciencia de la Computación por la **Universidad de La Habana**, co
 - Participación en la **16th International Conference on Operations Research** (febrero 2024) con el curso de posgrado **Short Introduction to wavelet for signal and image denoising. Use of R packages** (Ver [aquí](https://krtucho-portfolio.web.app/assets/academic/Carlos_Carret_Miranda_Short_Introduction_to_wavelet_for_signal_and_image_denoising_Use_of_R_packages.pdf)).
 - Tesis de diploma (enero 2024): **Simulación del crecimiento de un tumor en varias regiones del cuerpo humano** (Ver [aquí](https://krtucho-portfolio.web.app/assets/thesis/Thesis.pdf)).
 - Participación en **ELACTAM 2024** con el trabajo **Simulation of tumor growth in various regions of the human body in 3 dimensions** (Ver [aquí](https://krtucho-portfolio.web.app/assets/academic/Elactam.pdf)).
-- Desarrollando actualmente nuevos artículos relacionados con esta línea de investigación.
+- Participación en las **55 Jornadas Argentinas de Informática (55 JAIIO)**, Universidad Tecnológica Nacional - Facultad Regional La Plata (U.T.N. - F.R.L.P.), 10 al 13 de agosto de 2026, con el artículo corto **Uncovering UX Smells in the Eclipse IDE: An LLM-Assisted Study of UX Debt in Mature Ecosystems**, junto a Juan Gardey (LIFIA) y Alejandra Garrido (LIFIA, Facultad de Informática, Universidad Nacional de La Plata & CONICET) (Ver [aquí](https://55jaiio.sadio.org.ar/wp-content/uploads/2026/07/208.pdf)).
 
 ## Experiencia Profesional
 
